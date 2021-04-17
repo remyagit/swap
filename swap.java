@@ -11,7 +11,7 @@ public class swap {
         b=temp;
         System.out.println(a);
         System.out.println(b);
-
+System.out.println("without temp");
         int x=7;
         int y=8;
          x=x+y;
